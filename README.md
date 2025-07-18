@@ -23,3 +23,4 @@ JavaScript (vanilla) – Calculator Logic
 
 🚀 How to Use
 Clone the repo:
+https://github.com/eyy4k/Simple-Calculator.git
